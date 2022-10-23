@@ -1,0 +1,30 @@
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.exe
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.deps.json
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.runtimeconfig.json
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.pdb
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.AssemblyInfo.cs
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\refint\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.pdb
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.genruntimeconfig.cache
+C:\Users\student\Documents\ISP-20\Naumenko\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\ref\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.exe
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\bin\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\refint\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\Vtitbid.ISP20.Naumenko.Console.Cringeee.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.Naumenko.Console.Cringeee\obj\Debug\net6.0\ref\Vtitbid.ISP20.Naumenko.Console.Cringeee.dll
