@@ -1,0 +1,45 @@
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.exe
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\refint\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_3\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\ref\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.exe
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\refint\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object_4(final version)\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\ref\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.exe
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\bin\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\refint\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.pdb
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\Vtitbid.ISP20.NNaumenko.Console.Zodiac.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\Vtitbid.ISP20.Naumenko.Console.Object\Vtitbid.ISP20.NNaumenko.Console.Zodiac\obj\Debug\net6.0\ref\Vtitbid.ISP20.NNaumenko.Console.Zodiac.dll
