@@ -2,10 +2,12 @@
 {
     public class Bill
     {
+       private Action<string> writer;
         private string _payersCurrentAccount = String.Empty;
         private string _recipientCurrentAccount = String.Empty;
         private double _transaction;
-        public string PayersCurrentAccount
+
+        public string PayersCurrentAccount //Cчёт плательщика
         {
             get
             {
@@ -15,9 +17,12 @@
             {
                 try
                 {
-                    if (!String.IsNullOrEmpty(value) && !String.IsNullOrWhiteSpace(value))
+                    if (value.Length ==10 )
                     {
-                        _payersCurrentAccount = value;
+                        if (!String.IsNullOrEmpty(value) && !String.IsNullOrWhiteSpace(value))
+                        {
+                            _payersCurrentAccount = value;
+                        }
                     }
                     else
                     {
@@ -26,14 +31,18 @@
                 }
                 catch (Exception e)
                 {
+                   
                     System.Console.ForegroundColor = ConsoleColor.Red;
-                    System.Console.WriteLine($"{e.Message}");
+                    //MassageService massageService = new MassageService();
+                    //massageService.MassageHandler += MassageToStringConsole;
+                    writer($"{e.Message}");
+                    //System.Console.WriteLine($"{e.Message}");
                     System.Console.ResetColor();
                     Environment.Exit(0);
                 }
             }
         }
-        public string RecipientCurrentAccount
+        public string RecipientCurrentAccount //Cчёт получателя
         {
             get
             {
@@ -55,13 +64,16 @@
                 catch (Exception e)
                 {
                     System.Console.ForegroundColor = ConsoleColor.Red;
-                    System.Console.WriteLine($"{e.Message}");
+                    //MassageService massageService = new MassageService();
+                    //massageService.MassageHandler += MassageToStringConsole;
+                    writer($"{e.Message}");
+                    //System.Console.WriteLine($"{e.Message}");
                     System.Console.ResetColor();
                     Environment.Exit(0);
                 }
             }
         }
-        public double Transaction
+        public double Transaction //Перевод
         {
             get
             {
@@ -83,7 +95,10 @@
                 catch (Exception e)
                 {
                     System.Console.ForegroundColor = ConsoleColor.Red;
-                    System.Console.WriteLine($"{e.Message}");
+                    //MassageService massageService = new MassageService();
+                    //massageService.MassageHandler += MassageToStringConsole;
+                    writer($"{e.Message}");
+                    //System.Console.WriteLine($"{e.Message}");
                     System.Console.ResetColor();
                     Environment.Exit(0);
                 }
@@ -95,41 +110,59 @@
             RecipientCurrentAccount = recipientCurrentAccount;
             Transaction = transaction;
         }
-        public static void CreatingLengthArray(out int lenght)
+        public static void CreatingLengthArray(out int lenght, Action<string> writeer,Func<string> reader)
         {
-            System.Console.Write("Введите количество человек: ");
-            int num = Convert.ToInt32(System.Console.ReadLine());
-            lenght = 0;
-            try
+            writeer("Введите количество человек: ");
+            //System.Console.Write("Введите количество человек: ");
+            var input = reader();
+            bool isNumber = int.TryParse(input, out lenght);
+            if (isNumber)
             {
-                if (num > 0)
+                try
                 {
-                    lenght = num;
+                    if (Convert.ToInt32(input) > 0)
+                    {
+                        lenght = Convert.ToInt32(input);
+                    }
+                    else
+                    {
+                        throw new Exception("Количество человек должно быть больше 0");
+                    }
                 }
-                else
+                catch (Exception e)
                 {
-                    throw new Exception("Количество человек должно быть больше 0");
+                    System.Console.ForegroundColor = ConsoleColor.Red;
+                    writeer($"Ошибка: {e.Message}");
+                    //System.Console.WriteLine($"Ошибка: {e.Message}");
+                    System.Console.ResetColor();
+                    Environment.Exit(0);
                 }
             }
-            catch (Exception e)
+            if (!isNumber)
             {
+                lenght = 1;
                 System.Console.ForegroundColor = ConsoleColor.Red;
-                System.Console.WriteLine($"Ошибка: {e.Message}");
+                writeer($"Ошибка: Количество человек должно быть введено числами");
+                //System.Console.WriteLine($"Ошибка: Количество человек должно быть введено числами");
                 System.Console.ResetColor();
                 Environment.Exit(0);
             }
 
         }
-        public static Bill CreateNote()
+        public static Bill CreateNote(Action<string> writeer, Func<string> reader)
         {
-            System.Console.Write("\nВведите номер расчётного счёта плательщика: ");
-            string payersCurrentAccount = System.Console.ReadLine();
+            //System.Console.Write("\nВведите номер расчётного счёта плательщика: ");
+            writeer("\nВведите номер расчётного счёта плательщика: ");
+            string payersCurrentAccount = reader();
 
-            System.Console.Write("Введите номер расчётного счёта получателя: ");
-            string recipientCurrentAccount = System.Console.ReadLine();
 
-            System.Console.Write("Введите перечисляемую сумму: ");
-            double transaction = Convert.ToDouble(System.Console.ReadLine());
+            //System.Console.Write("Введите номер расчётного счёта получателя: ");
+            writeer("Введите номер расчётного счёта получателя: ");
+            string recipientCurrentAccount = reader();
+
+            //System.Console.Write("Введите перечисляемую сумму: ");
+            writeer("Введите перечисляемую сумму: ");
+            double transaction = Convert.ToDouble(reader());
 
             return new Bill(payersCurrentAccount, recipientCurrentAccount, transaction);
         }
@@ -149,10 +182,12 @@
                 }
             }
         }
-        public static string Search(Bill[] arrayBills)
+        public static string Search(Bill[] arrayBills,Action<string> writeer, Func<string> reader)
         {
-            System.Console.Write("\nВведите сумму, снятую с рассчётного счёта: ");
-            double transaction = System.Convert.ToDouble(System.Console.ReadLine());
+            //System.Console.Write("\nВведите сумму, снятую с рассчётного счёта: ");
+
+            writeer("\nВведите сумму, снятую с рассчётного счёта: ");
+            double transaction = Convert.ToDouble(reader);
             int j = 0;
             string str = $"\nСписко счетов с указанной суммой:";
             try
@@ -167,14 +202,15 @@
                 }
                 if (j == 0)
                 {
-                    throw new Exception("Маршрут с таким номером отсутствует!");
+                    throw new Exception("Несуществует счетов, с данной суммой снятия");
 
                 }
             }
             catch (Exception e)
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
-                System.Console.WriteLine($"\n{e.Message}");
+                //System.Console.WriteLine($"\n{e.Message}");
+                writeer($"\n{e.Message}");
                 System.Console.ResetColor();
                 Environment.Exit(0);
             }
@@ -186,7 +222,6 @@
             for (int i = 0; i < arrayBills.Length; i++)
             {
                 output += $"\nНомер расчётного счёта плательщика:{arrayBills[i].PayersCurrentAccount,-12} Номер расчётного счёта получателя:{arrayBills[i].RecipientCurrentAccount,-12} Перечисляемая сумма:{arrayBills[i].Transaction}рублей ";
-
             }
             return output;
         }
